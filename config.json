@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "MyPersonalSite",
+		"description": "Author:AschVer,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
-		"enter": "enter",
+		"title": "MyPersonalSite",
+		"subtitle": "A lazy student",
+		"enter": "了解更多",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "AschVer",
+		"signature": "Life is more than what you see",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:yechuyao0809@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/AschVer",
 				"icon": "github",
 				"text": "Github"
 			}
